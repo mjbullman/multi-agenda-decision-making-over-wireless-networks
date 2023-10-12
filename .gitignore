@@ -1,0 +1,11 @@
+.env
+.idea
+.nuxt
+.nitro
+.cache
+.output
+.DS_Store
+*.log*
+node_modules
+/backend/venv
+/frontend/dist
