@@ -6,7 +6,7 @@
 
                   Intel Galileo Client 5
 
-    @author - Martin Bullman <martin.j.bullman@gmail.com>
+    @author - Martin Bullman
     @since - 03/07/2014
 """
 
@@ -324,7 +324,7 @@ if __name__ == "__main__":
                     except socket.timeout:
                         print('Socket Timed Out!\n')
                         break
-                        
+
                 # Delay one second to make sure all zeros have been handled
                 delay( 1000 )
 

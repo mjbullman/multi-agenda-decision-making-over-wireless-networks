@@ -6,7 +6,7 @@
 
                   Intel Galileo Client 3
 
-    @author - Martin Bullman <martin.j.bullman@gmail.com>
+    @author - Martin Bullman
     @since - 03/07/2014
 """
 
