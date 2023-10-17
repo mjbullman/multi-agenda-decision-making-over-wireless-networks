@@ -1,11 +1,11 @@
 #!/bin/bash
 #				 Insight Center for Data Analytics
-#					University College Cork
+#					   University College Cork
 #					
-#                  Ad-hoc networking setup code 1
+#         Ad-hoc networking setup code 1
 #     
-#   @author - Martin Bullman    <martinbullman@live.ie>        
-#   @since - 03/07/2014
+# @author - Martin Bullman
+# @since - 03/07/2014
 
 ip link set wlan0 down
 iwconfig wlan0 mode ad-hoc
