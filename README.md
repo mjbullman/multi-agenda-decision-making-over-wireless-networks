@@ -56,10 +56,8 @@
 > - [Getting Started](#getting-started)
 >   - [Prerequisites](#prerequisites)
 >   - [Installation](#installation)
->   - [Configuration](#configuration)
->   - [Running The Application](#running-the-application)
->   - [Test](#tests)
->   - [Usage](#usage)
+>   - [Setting Up the Wireless Test Bed](#setting-up-the-wireless-test-bed)
+>   - [Running the Demonstration Application](#running-the-demonstration-application)
 > - [Contributing](#contributing)
 > - [License](#license)
 > - [Acknowledgments](#acknowledgments)
@@ -266,7 +264,7 @@ packet loss or out-of-sequence reception.
 
 Contributions are welcome! Here are several ways you can contribute:
 
-- **[Submit Pull Requests](https://github/Martin-Bullman/interoperability-of-cloud-monitoring-Data.git/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
+- **[Submit Pull Requests](https://github.com/Martin-Bullman/multi-agenda-decision-making-over-wireless-networks/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
 - **[Join the Discussions](https://github.com/Martin-Bullman/multi-agenda-decision-making-over-wireless-networks/discussions)**: Share your insights, provide feedback, or ask 
 questions.
 - **[Report Issues](https://github.com/Martin-Bullman/multi-agenda-decision-making-over-wireless-networks/issues)**: Submit bugs found or log feature requests for 
@@ -280,7 +278,7 @@ GitHub account.
 2. **Clone Locally**: Clone the forked repository to your local machine using a
 Git client.
    ```sh
-   git clone https://github.com/Martin-Bullman/interoperability-of-cloud-monitoring-data.git
+   git clone https://github.com/Martin-Bullman/multi-agenda-decision-making-over-wireless-networks.git
    ```
 3. **Create a New Branch**: Always work on a new branch, giving it a descriptive
 name.
@@ -310,7 +308,42 @@ Once your PR is reviewed and approved, it will be merged into the main branch.
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 This project is licensed under the MIT License - see the 
-[LICENSE](https://github.com/Martin-Bullman/interoperability-of-cloud-monitoring-Data/blob/main/LICENSE.md) 
+[LICENSE](https://github.com/Martin-Bullman/multi-agenda-decision-making-over-wireless-networks/blob/main/LICENSE.md) 
 file for details.
 
 ---
+
+##  Acknowledgments
+
+I would like to express my sincere gratitude to the following individuals and organizations for their 
+invaluable contributions and support throughout the duration of this project:
+
+### University College Cork (UCC):
+
+A special thank you to UCC for providing a conducive environment for research and learning. The academic 
+resources and facilities at UCC have been instrumental in the successful completion of this project.
+
+### Insight Centre for Data Analytics:
+
+I am deeply grateful to the Insight Centre for Data Analytics at UCC for hosting and supporting my summer 
+internship. The collaborative and innovative atmosphere at Insight has significantly enriched my learning 
+experience.
+
+### Supervision by Kenneth Brown:
+
+My sincere appreciation goes to Kenneth Brown for serving as my supervisor during this internship. His
+guidance, expertise, and constructive feedback have been crucial in shaping the project and enhancing its
+quality.
+
+### Mentorship by Mohamed Wahbi:
+
+I would like to extend my thanks to Mohamed Wahbi for being a dedicated mentor throughout this internship. 
+His insights, encouragement, and technical assistance have played a vital role in the successful execution
+of the "Multi-Agent Decision Making over Wireless Networks" project.
+
+<br>
+This project would not have been possible without the collective support and encouragement from these individuals and organizations. Their commitment to fostering a collaborative and intellectually stimulating environment has left a lasting impact on my professional and academic journey.
+
+Thank you for the opportunity and guidance.
+
+[**Return To Quick Links**](#quick-links)
