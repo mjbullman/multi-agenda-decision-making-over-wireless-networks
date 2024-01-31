@@ -16,7 +16,7 @@ class GalileoPins:
         analaogPins[number] #contains a list of AnalogPin objects that can be used to control the Arduino Analog pins. 
         digitalPins[number] #contains a list of DigitalPin objects that can be used to control the Arduino Digital pins.
         
-    Examples:
+    examples:
         #initalize the class
         pins = GalileoPins();
         
