@@ -13,8 +13,7 @@
         of widely distributed sensors, transmitting it to a centralized access point for informed decision-making.
         The resultant decisions are then communicated to remote actuators, enabling devices to perform tasks based
         on the outcomes.
-</em>
-
+    </em>
 </p>
 
 <p align="center">
@@ -342,7 +341,9 @@ His insights, encouragement, and technical assistance have played a vital role i
 of the "Multi-Agent Decision Making over Wireless Networks" project.
 
 <br>
-This project would not have been possible without the collective support and encouragement from these individuals and organizations. Their commitment to fostering a collaborative and intellectually stimulating environment has left a lasting impact on my professional and academic journey.
+This project would not have been possible without the collective support and encouragement from these 
+individuals and organizations. Their commitment to fostering a collaborative and intellectually stimulating
+environment has left a lasting impact on my professional and academic journey.
 
 Thank you for the opportunity and guidance.
 
