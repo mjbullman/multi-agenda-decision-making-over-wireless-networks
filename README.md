@@ -328,7 +328,7 @@ I am deeply grateful to the Insight Centre for Data Analytics at UCC for hosting
 internship. The collaborative and innovative atmosphere at Insight has significantly enriched my learning 
 experience.
 
-### Supervision by Kenneth Brown:
+### Supervision by Ken Brown:
 
 My sincere appreciation goes to Kenneth Brown for serving as my supervisor during this internship. His
 guidance, expertise, and constructive feedback have been crucial in shaping the project and enhancing its
